@@ -1,0 +1,63 @@
+header{
+    background-image: url('./assets/images/hero-bg.png');
+    background-size: cover;
+    background-attachment: fixed;
+}
+header .heading{
+    font-size: 48px;
+    font-weight: 700;
+    color: #012970;
+}
+header .header-discription{
+    color: #444444;
+    font-size: 26px;
+}
+.section-title{
+    font-size: 14px;
+    font-weight: 700;
+    color: #4154f1;
+    text-transform: uppercase;
+}
+.section-heading{
+    font-weight: 700;
+    color: #012970;
+    font-size: 30px;
+}
+.section-discription{
+    color: #444444;
+    font-size: 20px;
+}
+.services-title{
+    color: #012970;
+    font-size: 24px;
+}
+.services-discription{
+    color: #444444;
+    font-size: 20px;
+}
+.rounded{
+    border-radius: 10px;
+}
+.services-img-hover{
+    transform: scale(1.15);
+    transition: transform 0.5s
+}
+.card-img-hover:hover .services-img-hover{
+    transform: scale(1.03);
+}
+.Count-heading{
+    font-size: 36px;
+    display: block;
+    font-weight: 600;
+    color: #0b198f;
+}
+.text-grey{
+    color: #444444;
+    font-size: 16px;
+}
+.f-42{
+    font-size: 42px;
+}
+.text-orange{
+    color: #ee6c20;
+}
